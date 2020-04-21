@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: https://stg-api.stackbit.com/project/5dcbd355ec21bd001940b216/webhook/forestry
+webhook_url: https://vitaliy-stackbit.ngrok.io
 sections:
 - type: document
   path: _config.yml
