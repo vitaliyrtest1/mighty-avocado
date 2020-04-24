@@ -64,10 +64,10 @@ sections:
   label: Site Menus
   templates:
   - site_menus
-upload_dir: ''
-public_path: ''
+upload_dir: media
+public_path: "/public/media"
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
