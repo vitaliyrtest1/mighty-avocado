@@ -64,7 +64,7 @@ sections:
   label: Site Menus
   templates:
   - site_menus
-upload_dir: media
+upload_dir: ''
 public_path: "/public/media"
 front_matter_path: ''
 use_front_matter_path: false
