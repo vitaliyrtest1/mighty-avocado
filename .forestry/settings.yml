@@ -65,7 +65,7 @@ sections:
   templates:
   - site_menus
 upload_dir: ''
-public_path: "/public/media"
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
